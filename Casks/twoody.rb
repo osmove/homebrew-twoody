@@ -1,9 +1,9 @@
 cask "twoody" do
   arch arm: "-arm64"
 
-  version "0.13.14"
-  sha256 arm:   "ad6934d8ae7f1de51617a59cb36e33a0aeaa3c41cb216c474cbc50098dd56762",
-         intel: "b5eeff0824c775de492cdce343f79c8035318e1bdc76ad10dd1f35c2353b9bd3"
+  version "0.13.15"
+  sha256 arm:   "a7a07b01936711a24c23b8076b48605926a14ebf29c52104583070c84440bbff",
+         intel: "06736a9674c82da310b4c5e7dd4cc73356dd6e15aa7d88b797b8d67a0f62a94e"
 
   url "https://downloads.twoody.com/desktop/Twoody-#{version}#{arch}.dmg"
   name "Twoody"
